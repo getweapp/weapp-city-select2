@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/switchcity/switchcity"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#36c",
+    "navigationBarTitleText": "城市选择",
+    "navigationBarTextStyle": "light"
+  }
+}
